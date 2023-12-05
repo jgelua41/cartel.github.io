@@ -1,0 +1,2 @@
+# cartel.github.io
+CARTEL EVENT MANAGEMENT SYSTEM
